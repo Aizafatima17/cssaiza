@@ -1,0 +1,17 @@
+#h1{
+    background-color: brown;
+    color: azure;
+}
+.h2{
+background-color: blueviolet;
+color: blanchedalmond;
+
+}
+ul>li {
+    background-color: aqua;
+    color: crimson;
+}
+ol>li {
+    background-color: aquamarine;
+    color:palevioletred;
+}
